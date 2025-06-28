@@ -1,0 +1,226 @@
+[
+  {
+    "date": "2024-01-13",
+    "localName": "लोहड़ी",
+    "name": "Lohri",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-01-14",
+    "localName": "मकर संक्रांति",
+    "name": "Makar Sankranti",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-01-15",
+    "localName": "पोंगल",
+    "name": "Pongal",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-01-26",
+    "localName": "गणतंत्र दिवस",
+    "name": "Republic Day",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-03-08",
+    "localName": "महाशिवरात्रि",
+    "name": "Maha Shivaratri",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-03-25",
+    "localName": "होली",
+    "name": "Holi",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-03-29",
+    "localName": "गुड फ्राइडे",
+    "name": "Good Friday",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-04-09",
+    "localName": "उगादी",
+    "name": "Ugadi",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-04-10",
+    "localName": "ईद उल-फ़ित्र",
+    "name": "Eid al-Fitr",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-04-13",
+    "localName": "वैसाखी",
+    "name": "Vaisakhi",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-04-14",
+    "localName": "अंबेडकर जयंती",
+    "name": "Ambedkar Jayanti",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-04-14",
+    "localName": "विषु",
+    "name": "Vishu",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-04-17",
+    "localName": "राम नवमी",
+    "name": "Rama Navami",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-04-21",
+    "localName": "महावीर जयंती",
+    "name": "Mahavir Jayanti",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-05-23",
+    "localName": "बुद्ध पूर्णिमा",
+    "name": "Buddha Purnima",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-06-17",
+    "localName": "ईद-उल-अजहा",
+    "name": "Eid al-Adha",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-07-17",
+    "localName": "मुहर्रम",
+    "name": "Muharram",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-08-15",
+    "localName": "स्वतंत्रता दिवस",
+    "name": "Independence Day",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-08-19",
+    "localName": "रक्षाबंधन",
+    "name": "Raksha Bandhan",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-08-26",
+    "localName": "कृष्ण जन्माष्टमी",
+    "name": "Janmashtami",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-09-05",
+    "localName": "ओणम",
+    "name": "Onam",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-09-07",
+    "localName": "गणेश चतुर्थी",
+    "name": "Ganesh Chaturthi",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-10-02",
+    "localName": "महात्मा गांधी जयंती",
+    "name": "Gandhi Jayanti",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-10-12",
+    "localName": "दुर्गा अष्टमी",
+    "name": "Durga Ashtami",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-10-13",
+    "localName": "महानवमी",
+    "name": "Mahanavami",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-10-15",
+    "localName": "विजय दशमी",
+    "name": "Dussehra",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-10-31",
+    "localName": "दीपावली",
+    "name": "Diwali",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-11-01",
+    "localName": "कर्नाटक राज्योत्सव",
+    "name": "Karnataka Rajyotsava",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-11-07",
+    "localName": "छठ पूजा (नहाय खाय)",
+    "name": "Chhath Puja",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-11-08",
+    "localName": "छठ पूजा (सूर्योदय अर्घ)",
+    "name": "Chhath Puja",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-11-15",
+    "localName": "गुरु नानक जयंती",
+    "name": "Guru Nanak Jayanti",
+    "countryCode": "IN",
+    "types": ["Public"]
+  },
+  {
+    "date": "2024-12-25",
+    "localName": "क्रिसमस डे",
+    "name": "Christmas Day",
+    "countryCode": "IN",
+    "types": ["Public"]
+  }
+]

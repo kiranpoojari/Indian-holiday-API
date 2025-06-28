@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Holiday API Usage</title>
+  <style>
+    body { font-family: Arial; padding: 40px; background: #f9f9f9; }
+    code, pre { background: #eee; padding: 4px; display: block; margin-bottom: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Holiday API – Usage Guide</h1>
+  <h3>1. Get Token</h3>
+  <pre>POST /api/token/
+Content-Type: application/json
+Body:
+{
+  "username": "your_username",
+  "password": "your_password"
+}</pre>
+
+  <h3>2. Get Holidays</h3>
+  <pre>GET /api/holidays/
+Header:
+Authorization: Token your_token</pre>
+</body>
+</html>

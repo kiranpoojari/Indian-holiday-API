@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Holiday API | India Public Holidays</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      background-color: #f7f9fb;
+      color: #333;
+    }
+    h1 {
+      color: #0066cc;
+    }
+    code {
+      background-color: #f2f2f2;
+      padding: 4px 6px;
+      border-radius: 4px;
+    }
+    pre {
+      background-color: #f2f2f2;
+      padding: 10px;
+      border-left: 4px solid #0066cc;
+      overflow-x: auto;
+    }
+    .token-box {
+      background-color: #e6f7ff;
+      padding: 10px;
+      border-left: 4px solid #00b3ff;
+      font-weight: bold;
+      word-break: break-all;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🇮🇳 Welcome to the Indian Holiday API</h1>
+  <p>This public API provides official Indian public holidays data, accessible through secure token-based requests.</p>
+
+  <h2>🔐 Public API Token (for demo use):</h2>
+  <div class="token-box">
+    Authorization: Token 9e912a282302538ca9d7009434a309dff295ec96
+  </div>
+
+  <h2>🛠️ How to Use</h2>
+  <ul>
+    <li><strong>Get Token:</strong> <code>POST</code> to <code>/api/token/</code></li>
+    <li><strong>List Holidays:</strong> <code>GET</code> <code>/api/holidays/</code> with header:
+      <br><code>Authorization: Token your_token</code></li>
+  </ul>
+
+  <h3>📋 Example Token Request</h3>
+  <pre>
+POST /api/token/
+Content-Type: application/json
+
+{
+  "username": "your_username",
+  "password": "your_password"
+}
+  </pre>
+
+  <h3>📋 Example Holiday Request</h3>
+  <pre>
+GET /api/holidays/
+Headers:
+Authorization: Token 9e912a282302538ca9d7009434a309dff295ec96
+  </pre>
+
+  <p>🔒 You can also register and get your own token if needed.</p>
+</body>
+</html>
